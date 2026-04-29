@@ -3,11 +3,11 @@ const WA_NUMBER = "6282311746375";
 
 // Data produk (Canva & Capcut paling atas)
 const products = {
-  "CANVA PRO": [
+  "CANVA": [
     { desc: "Team Invite 1 Bulan", price: "Rp 4.000", cat: "Editing" },
     { desc: "Team Invite 1 Tahun", price: "Rp 10.000", cat: "Editing" }
   ],
-  "CAPCUT": [
+  "CAPCUT PRO": [
     { desc: "Sharing 7 Hari", price: "Rp 5.000", cat: "Editing" },
     { desc: "Private 7 Hari", price: "Rp 8.000", cat: "Editing" },
     { desc: "Sharing 1 Bulan", price: "Rp 10.000", cat: "Editing" },
@@ -42,7 +42,7 @@ const products = {
     { desc: "Sharing 1 Bulan", price: "Rp 8.000", cat: "Streaming" },
     { desc: "Private 1 Bulan", price: "Rp 15.000", cat: "Streaming" }
   ],
-  "Bstation": [
+  "BSTATION": [
     { desc: "Sharing 1 Bulan", price: "Rp 7.000", cat: "Streaming" },
     { desc: "Sharing 3 Bulan", price: "Rp 10.000", cat: "Streaming" },
     { desc: "Sharing 1 Tahun", price: "Rp 15.000", cat: "Streaming" }
@@ -51,7 +51,7 @@ const products = {
     { desc: "Sharing 1 Bulan", price: "Rp 19.000", cat: "Streaming" },
     { desc: "Private 1 Bulan", price: "Rp 30.000", cat: "Streaming" }
   ],
-  "CAPCHPLAY": [
+  "CATCHPLAY": [
     { desc: "Sharing 1 Bulan", price: "Rp 6.000", cat: "Streaming" },
     { desc: "Sharing 6 Bulan", price: "Rp 8.000", cat: "Streaming" },
     { desc: "Sharing 12 Bulan", price: "Rp 13.000", cat: "Streaming" }
