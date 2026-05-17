@@ -15,7 +15,7 @@ const products = {
   ],
   "NETFLIX": [
   { desc: "1p1u 1 hari", price: "Rp 4.000", cat: "Streaming" },
-  { desc: "1p1u 7 hari", price: "Rp 11.000", cat: "Streaming" }
+  { desc: "1p1u 7 hari", price: "Rp 12.000", cat: "Streaming" }
   ],
   "VIU": [
     { desc: "Private 1 Bulan", price: "Rp 4.000", cat: "Streaming" },
