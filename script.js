@@ -8,8 +8,8 @@ const products = {
     { desc: "Team Invite 1 Tahun", price: "Rp 10.000", cat: "Editing" }
   ],
   "CAPCUT PRO": [
-    { desc: "Sharing 7 Hari", price: "Rp 7.000", cat: "Editing" },
-    { desc: "Private 7 Hari", price: "Rp 11.000", cat: "Editing" },
+    { desc: "Sharing 7 Hari", price: "Rp 8.000", cat: "Editing" },
+    { desc: "Private 7 Hari", price: "Rp 15.000", cat: "Editing" },
   ],
   "NETFLIX": [
   { desc: "1p1u 1 hari", price: "Rp 4.000", cat: "Streaming" },
