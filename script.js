@@ -10,6 +10,7 @@ const products = {
   "CAPCUT PRO": [
     { desc: "Sharing 7 Hari", price: "Rp 8.000", cat: "Editing" },
     { desc: "Private 7 Hari", price: "Rp 15.000", cat: "Editing" },
+    { desc: "Private 1 Bulan", price: "ask me first", cat: "Editing" },
   ],
   "NETFLIX": [
   { desc: "1p1u 1 hari", price: "Rp 4.000", cat: "Streaming" },
